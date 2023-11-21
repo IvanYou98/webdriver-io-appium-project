@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e714a16-a8ea-4dca-acec-e6eec7eb8ae8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Playground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RunnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/drivers/DriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/DragAndDropPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/FormPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/BaseSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/DragAndDropSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/FormSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/LoginSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/drag&amp;drop.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/form.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/AccessibilityResources.bundle/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/AccessibilityResources.bundle/_CodeSignature/CodeDirectory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/AccessibilityResources.bundle/_CodeSignature/CodeRequirements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/AccessibilityResources.bundle/_CodeSignature/CodeRequirements-1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/AccessibilityResources.bundle/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/AccessibilityResources.bundle/_CodeSignature/CodeSignature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/AccessibilityResources.bundle/en.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/AntDesign.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/AppIcon20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/AppIcon20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/AppIcon29x29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/AppIcon29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/AppIcon29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/AppIcon40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/AppIcon40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/AppIcon57x57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/AppIcon57x57@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/AppIcon60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/AppIcon60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/Assets.car" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/Entypo.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/EvilIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/Feather.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/FontAwesome.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/FontAwesome5_Brands.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/FontAwesome5_Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/FontAwesome5_Solid.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/Fontisto.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/Foundation.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/Frameworks/OpenSSL.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/Frameworks/OpenSSL.framework/OpenSSL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/Frameworks/OpenSSL.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/Ionicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/LaunchScreen.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/MaterialCommunityIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/MaterialIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/Octicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/PkgInfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/SimpleLineIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/Zocial.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/assets/src/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/assets/src/assets/images/wdio-c1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/assets/src/assets/images/wdio-c2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/assets/src/assets/images/wdio-c3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/assets/src/assets/images/wdio-l1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/assets/src/assets/images/wdio-l2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/assets/src/assets/images/wdio-l3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/assets/src/assets/images/wdio-r1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/assets/src/assets/images/wdio-r2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/assets/src/assets/images/wdio-r3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/assets/src/assets/io.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/assets/src/assets/webdriverio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/main.jsbundle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/wdioNativeDemoApp.app/wdioNativeDemoApp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2YS0QmCMGJ6PIOgAoKAdzVpdYKh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/yuanfanyou/Desktop/webdriver-io-appium-project/src/test/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.21839081",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.RunnerClass">
+    <configuration name="Playground" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Playground" />
+      <module name="webdriver-io-appium-project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: As a user, when I enter the valid email and password, I should see the success message" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/login.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="webdriver-io-appium-project" />
+      <option name="NAME_FILTER" value="^As a user\, when I enter the valid email and password\, I should see the success message$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^As a user\, when I enter the valid email and password\, I should see the success message$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: As a user, when I enter the valid email and password, I should see the success message" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerClass" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webdriver-io-appium-project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunnerClass" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RunnerClass" />
+        <item itemvalue="Cucumber Java.Scenario: As a user, when I enter the valid email and password, I should see the success message" />
+        <item itemvalue="Application.Playground" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e714a16-a8ea-4dca-acec-e6eec7eb8ae8" name="Changes" comment="" />
+      <created>1700503661412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700503661412</updated>
+      <workItem from="1700503662739" duration="20850000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
